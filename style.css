@@ -15,10 +15,10 @@ body {
 }
 
 .Cont-QRTXT {
-    height: 500px;
+    height: 450px;
     width: 325px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 20px;
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -26,14 +26,14 @@ body {
 }
 
 .Cont-QR img {
-    height: 290px;
-    width: 290px;
+    height: 300px;
+    width: 300px;
     background-color: hsl(220, 15%, 55%);
-    border-radius: 10px;
+    border-radius: 13px;
 }
 
 .Cont-txt {
-    margin-bottom: 35px;
+    margin-bottom: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
